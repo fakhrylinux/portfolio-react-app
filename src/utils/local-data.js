@@ -17,6 +17,12 @@ let portfolios = [
     link: "https://github.com/fakhrylinux/personal-notes-react-app",
     body: "This project created with React Library",
   },
+  {
+    id: "portfolio-4",
+    title: "Notes App Frontend Web",
+    link: "https://github.com/fakhrylinux/notes-app-frontend-web",
+    body: "This is a frontend web for Dicoding Notes API\n",
+  },
 ];
 
 function getAllPPortfolios() {
