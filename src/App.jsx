@@ -67,7 +67,7 @@ function App() {
             <p className="lead mb-5">
               I am an IT Enthusiast with extensive knowledge in computer
               science. I&apos;m looking for a job as a programmer, especially
-              Back-End Developer.
+              DevOps Engineer.
             </p>
             <div className="social-icons">
               <a

@@ -1,5 +1,11 @@
 let portfolios = [
   {
+    id: "portfolio-0",
+    title: "K8s project to Deploy forum API",
+    link: "https://github.com/fakhrylinux/forum-api-k8s",
+    body: "This project demonstrates my knowledge of kubernetes",
+  },
+  {
     id: "portfolio-1",
     title: "Forum API Back-End",
     link: "https://github.com/fakhrylinux/forum-api-hapijs",
