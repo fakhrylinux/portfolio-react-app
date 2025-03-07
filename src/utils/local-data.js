@@ -29,6 +29,12 @@ let portfolios = [
     link: "https://github.com/fakhrylinux/notes-app-frontend-web",
     body: "This is a frontend web for Dicoding Notes API\n",
   },
+  {
+    id: "portfolio-5",
+    title: "Dattebayo Android App",
+    link: "https://github.com/fakhrylinux/dattebayo-android-app",
+    body: "This project demonstrates my knowledge of Android Dev using clean architecture.\n",
+  },
 ];
 
 function getAllPPortfolios() {
