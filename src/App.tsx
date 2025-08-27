@@ -1,9 +1,9 @@
 import "bootstrap/dist/css/bootstrap.min.css";
-import PortfolioItem from "./components/portfolio-item.jsx";
+import PortfolioItem from "./components/portfolio-item.js";
 import { useState } from "react";
 import { getAllPPortfolios } from "./utils/local-data.js";
-import Navigation from "./components/navigation.jsx";
-import About from "./components/about.jsx";
+import Navigation from "./components/navigation.js";
+import About from "./components/about.js";
 
 function App() {
   const [portfolios] = useState(getAllPPortfolios());
